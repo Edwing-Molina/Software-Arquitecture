@@ -1,2 +1,7 @@
-# Software-Arquitecture
-Tareas de Aqruitectura de Software
+# Arquitectura de Software
+
+## Integrantes
+
+- Edwing Mauricio Molina Chim
+- Alejandro Lopéz Maldonado 
+- Víctor Saúl Ek May
