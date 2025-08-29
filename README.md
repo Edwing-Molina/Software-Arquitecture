@@ -3,5 +3,8 @@
 ## Integrantes
 
 - Edwing Mauricio Molina Chim
-- Alejandro Lopéz Maldonado 
+ <img src = "Images/Edwing" img>
+- Alejandro Lopéz Maldonado
+<img src = "Images/Alejandro" img>
 - Víctor Saúl Ek May
+<img src = "Images/Saul" img>
