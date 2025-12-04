@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+        
+        <title> {{$layoutTitle}} </title>
+        <link rel="icon" href="/public/images/escudo_uady.png" type="image/png">
+    </head>
+
+    <body>
+
+        {{$slot}}
+
+    </body>
+</html>
